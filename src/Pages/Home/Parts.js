@@ -11,7 +11,7 @@ const Parts = () => {
     }, [parts]);
 
     return (
-        <div className='mb-10 lg:mb-32 mt-10'>
+        <div className='mb-10 mt-10'>
             <div className='text-center'>
                 <h2 className='font-bold'>OUR MOTORCYCLE PARTS</h2>
                 <h1 className='text-2xl font-medium'>Products We Provide</h1>
