@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Oil Level Gauge",
+        "price": "10",
+        "orderQuantity": "50",
+        "availableQuantity": "850",
+        "description": "The Oil Level Gauge was developed in response to the need of maintenance professionals to gauge the oil level inside gearboxes.",
+        "img": "https://i.ibb.co/tLWfCBd/an125-oil-level-gauge.jpg"
+    },
+    {
+        "name": "Regulator",
+        "price": "12",
+        "orderQuantity": "35",
+        "availableQuantity": "750",
+        "description": "A quality regulator/rectifier that replaces the Suzuki AN 125 AN125 Burgman 95-00 OEM part. Works cooler and with more power as original rectifier.",
+        "img": "https://i.ibb.co/5kPwZ8k/an125-regulator.jpg"
+    },
+    {
+        "name": "Fuel Tank",
+        "price": "100",
+        "orderQuantity": "10",
+        "availableQuantity": "300",
+        "description": "The main function of the fuel tank is simply to hold fuel. However, it also provides a secure area for the knees to grip while riding, acting as an important point of contact between bike and rider.",
+        "img": "https://i.ibb.co/MRD3G6g/fuel-tank.jpg"
+    },
+    {
+        "name": "Ignition Switch",
+        "price": "15",
+        "orderQuantity": "80",
+        "availableQuantity": "650",
+        "description": "An ignition switch, or starter switch, is the leading switch that administers the power in the main electrical of a motorcycle. In more simple terms, it's where your key goes to turn the bike on.",
+        "img": "https://i.ibb.co/SmKGwwb/ignition-switch-assy.jpg"
+    },
+    {
+        "name": "Main & Counter Shaft",
+        "price": "7",
+        "orderQuantity": "100",
+        "availableQuantity": "930",
+        "description": "A mechanism used to transmit motion and power from a main driving shaft to an individual machine, typically mounted by hangers on a ceiling, and driven by one belt from the main shaft.",
+        "img": "https://i.ibb.co/0F70XVY/main-counter-shaft.jpg"
+    },
+    {
+        "name": "Starting Clutch",
+        "price": "13",
+        "orderQuantity": "120",
+        "availableQuantity": "1050",
+        "description": "The starter drive clutch is a one way roller clutch and a key component in a starter motor that is used to crank internal combustion engines.",
+        "img": "https://i.ibb.co/Zxfmtzh/starting-clutch.jpg"
+    }
+]
