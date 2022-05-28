@@ -14,7 +14,7 @@ const Part = ({ part }) => {
                 <h3 className="text-xl"><span className='font-bold'>Minimum Order Quantity: </span>{orderQuantity}</h3>
                 <h3 className="text-xl"><span className='font-bold'>Available Quantity: </span>{availableQuantity}</h3>
                 <p className='text-xl'>{description}</p>
-                <Link to='/purchase'><button class="btn btn-active btn-accent mt-4">Purchase</button></Link>
+                <Link to='/purchase'><button className="btn btn-active btn-accent mt-4">Purchase</button></Link>
             </div>
         </div>
     );

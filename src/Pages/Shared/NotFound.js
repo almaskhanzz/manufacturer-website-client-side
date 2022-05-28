@@ -6,8 +6,8 @@ const NotFound = () => {
     return (
         <div>
             <div id="notfound">
-                <div class="notfound">
-                    <div class="notfound-404">
+                <div className="notfound">
+                    <div className="notfound-404">
                         <h1>:(</h1>
                     </div>
                     <h2>404 - Page not found</h2>
