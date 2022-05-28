@@ -14,7 +14,6 @@ const Users = () => {
     if (isLoading) {
         return <Loading />
     }
-
     return (
         <div>
             <h2 className='text-2xl'>All Users:{users.length} </h2>
@@ -25,6 +24,7 @@ const Users = () => {
                             <th></th>
                             <th>Id</th>
                             <th>Email</th>
+                            <th>Role</th>
                             <th></th>
                         </tr>
                     </thead>
