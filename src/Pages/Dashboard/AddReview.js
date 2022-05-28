@@ -26,7 +26,7 @@ const AddReview = () => {
                         img: img
                     }
                     //send to your database...
-                    fetch('http://localhost:5000/review', {
+                    fetch('https://mysterious-woodland-46458.herokuapp.com/review', {
                         method: 'POST',
                         headers: {
                             'content-type': 'application/json',

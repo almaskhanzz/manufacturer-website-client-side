@@ -2,7 +2,7 @@ import React from 'react';
 const UserRow = ({ user, index, refetch }) => {
     const { _id, email, role } = user;
     const makeAdmin = () => {
-        fetch(`http://localhost:5000/user/admin/${email}`, {
+        fetch(`https://mysterious-woodland-46458.herokuapp.com/user/admin/${email}`, {
             method: 'PUT',
             headers: {
                 authorization: `Bearer ${localStorage.getItem('accessToken')}`
