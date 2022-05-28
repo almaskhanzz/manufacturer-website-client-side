@@ -20,12 +20,11 @@ const Users = () => {
             <div className="overflow-x-auto">
                 <table className="table w-full">
                     <thead>
-                        <tr>
+                        <tr >
                             <th></th>
                             <th>Id</th>
                             <th>Email</th>
                             <th>Role</th>
-                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
