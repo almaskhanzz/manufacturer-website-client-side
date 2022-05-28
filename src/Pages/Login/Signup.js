@@ -19,7 +19,7 @@ const Signup = () => {
     const [token] = useToken(user);
 
     const navigate = useNavigate();
-    if (user) {
+    if (token) {
         navigate('/home');
     }
     // if(token){
